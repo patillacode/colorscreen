@@ -16,7 +16,15 @@ Also `fail()` prints an error and exits.
 
 ------
 
-#### Usage example
+#### Demo
+
+Run this in a python console:
+```
+from colorscreen import ColorScreen
+ColorScreen().demo()
+```
+
+#### Usage
 
 * Import the class
 * Create an instance of it
